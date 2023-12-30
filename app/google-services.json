@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024369869094",
+    "project_id": "expermenting-46a66",
+    "storage_bucket": "expermenting-46a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024369869094:android:b56ef70e693c79aec081e7",
+        "android_client_info": {
+          "package_name": "ghaith.fattoum.finaltrytoconnectapptoserver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArFXHovIimR4lG-RJfIl0kwE2KDVN8w9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
